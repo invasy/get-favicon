@@ -1,0 +1,6 @@
+*               text=auto
+*.py            text diff=python
+*.md            text diff=markdown
+.editorconfig   text
+.gitattributes  text export-ignore
+.gitignore      text export-ignore
